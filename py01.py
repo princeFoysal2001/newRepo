@@ -1,2 +1,4 @@
-for i in range(6):
-    print(i)
+for c in list(['a', 'b', 'c']):
+    print(c)
+    print("*")
+    print("#")
